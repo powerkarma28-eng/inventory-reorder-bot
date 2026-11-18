@@ -1,0 +1,26 @@
+sku,product_name,category,supplier,unit_cost,on_hand,on_order,lead_time_days,case_pack
+SKU-1000,Corrugated Box - Small,Packaging,Atlas Packaging Co.,0.85,913,0,8,50
+SKU-1001,Corrugated Box - Large,Packaging,Atlas Packaging Co.,1.6,1611,0,10,25
+SKU-1002,Bubble Wrap Roll 12in,Packaging,Atlas Packaging Co.,14.5,141,0,8,6
+SKU-1003,Packing Tape 6-Pack,Packaging,Atlas Packaging Co.,11.0,96,0,8,12
+SKU-1004,Shipping Labels 500ct,Packaging,Atlas Packaging Co.,18.75,13,0,5,10
+SKU-1005,Steel Bolt M8,Hardware,Northwind Components,0.12,2855,0,16,500
+SKU-1006,Hex Nut M8,Hardware,Northwind Components,0.05,0,0,13,1000
+SKU-1007,Hinge Assembly,Hardware,Northwind Components,3.4,1293,0,12,20
+SKU-1008,Aluminum Bracket,Hardware,Northwind Components,6.25,323,0,13,10
+SKU-1009,Rubber Gasket Kit,Hardware,Northwind Components,9.9,268,0,15,12
+SKU-1010,Printer Paper Case,Office,Summit Office Supply,42.0,52,0,4,1
+SKU-1011,Toner Cartridge,Office,Summit Office Supply,89.0,75,0,4,1
+SKU-1012,Nitrile Gloves Box,Office,Summit Office Supply,8.5,31,0,4,10
+SKU-1013,Safety Glasses,Office,Summit Office Supply,4.25,374,0,4,12
+SKU-1014,Barcode Scanner,Electronics,Pacific Electronics,145.0,34,0,23,1
+SKU-1015,Thermal Label Printer,Electronics,Pacific Electronics,289.0,21,0,19,1
+SKU-1016,USB-C Cable 6ft,Electronics,Pacific Electronics,5.75,1406,0,19,20
+SKU-1017,Lithium Battery Pack,Electronics,Pacific Electronics,32.0,408,0,21,4
+SKU-1018,Wireless Handheld Terminal,Electronics,Pacific Electronics,610.0,9,0,19,1
+SKU-1019,Pallet Wrap Film,Warehouse,Garden State Distributors,24.0,195,0,8,4
+SKU-1020,Wooden Pallet 48x40,Warehouse,Garden State Distributors,12.5,1088,0,12,10
+SKU-1021,Hand Truck,Warehouse,Garden State Distributors,95.0,74,0,12,1
+SKU-1022,Forklift Propane Tank,Warehouse,Garden State Distributors,38.0,22,6,9,2
+SKU-1023,Floor Marking Tape,Warehouse,Garden State Distributors,16.0,0,0,12,6
+SKU-1024,Stretch Hood Bag,Warehouse,Garden State Distributors,2.1,555,150,10,50

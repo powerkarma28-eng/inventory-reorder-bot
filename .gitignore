@@ -1,0 +1,10 @@
+# Secrets - never upload your webhook URL
+.env
+
+# Generated reports (a sample is kept in examples/)
+reports/*.xlsx
+
+__pycache__/
+*.pyc
+.venv/
+venv/
